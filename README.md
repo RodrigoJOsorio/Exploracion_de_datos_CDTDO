@@ -1,5 +1,5 @@
 ## Exploracion_de_datos_CDTDO
-#Ejercicio de Evaluación "Exploración de Datos"
+Ejercicio de Evaluación "Exploración de Datos"
 
 Rodrigo Jafet Osorio Angeles
 
